@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:melissia.samir15@gmail.com">📩 Email</a> •
+  <a href="https://www.linkedin.com/in/melissia-samir-2287a72a2/">💼 LinkedIn</a>
 </p>
 
 ---
@@ -34,6 +35,7 @@
 
 ### ⚡ Highlight Project
 - **[Telco Churn Prediction](https://github.com/Melissiasamir/churn-prediction):** Machine learning project predicting customer churn using Python, data preprocessing, resampling techniques, and multiple classification models.
+- **[Breast Cancer Prediction](https://github.com/Melissiasamir/Breast-Cancer-Prediction):** Machine learning project predicting customer churn using Python, data preprocessing, resampling techniques, and multiple classification models.
 
 ---
 
