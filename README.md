@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:melissia.samir15@gmail.com">📩 Email</a> •
-  <a href="https://www.linkedin.com/in/melissia-samir-2287a72a2/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/melissia-samir-2287a72a2/">💼 LinkedIn</a> •
   <a href="https://melissia.vercel.app/">🌐 Website</a>
 </p>
 
