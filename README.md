@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I'm Melissia Samir 👋</h2>
-<p align="center">CS Student @ Egyptian Chinese University</p>
+<p align="center">Computer & Information Systems Student @ Egyptian Chinese University</p>
 
 <p align="center">
   <a href="mailto:melissia.samir15@gmail.com">📩 Email</a> •
@@ -16,16 +16,24 @@
 ### 💻 Technologies & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) 
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square)
 ![Databases](https://img.shields.io/badge/Database-4DB33D?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E1?style=for-the-badge&logo=cisco&logoColor=white) 
+
 
 ---
 
 ### 🎓 Relevant Courses
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Object-Oriented Programming(OOP) 
 - Operating Systems  
 - Databases  
 - Artificial Intelligence / Machine Learning  
@@ -34,9 +42,6 @@
 
 ---
 
-### ⚡ Highlight Project
-- **[Telco Churn Prediction](https://github.com/Melissiasamir/churn-prediction):** Machine learning project predicting customer churn using Python, data preprocessing, resampling techniques, and multiple classification models.
-- **[Breast Cancer Prediction](https://github.com/Melissiasamir/Breast-Cancer-Prediction):** Machine learning project predicting breast cancer using Python, data preprocessing, resampling techniques, and multiple classification models.
 
 ---
 
