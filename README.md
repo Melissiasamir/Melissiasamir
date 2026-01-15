@@ -47,19 +47,11 @@
 
 ---
 
-
----
-
-### 🔍 Interests
-- Artificial Intelligence (AI)   
-
----
-
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melissiasamir&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissiasamir&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melissiasamir&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissiasamir&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
