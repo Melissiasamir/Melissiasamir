@@ -50,8 +50,9 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melissiasamir&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissiasamir&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=melissiasamir&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=melissiasamir&layout=compact&theme=radical" />
 </p>
 
 ---
